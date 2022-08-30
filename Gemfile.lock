@@ -1,0 +1,28 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    date (3.2.2)
+    json (2.6.2)
+    net-http (0.2.2)
+      uri
+    open-uri (0.2.0)
+      stringio
+      time
+      uri
+    require_all (3.0.0)
+    stringio (3.0.2)
+    time (0.2.0)
+      date
+    uri (0.11.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  json (~> 2.6, >= 2.6.2)
+  net-http (~> 0.2.2)
+  open-uri (~> 0.2.0)
+  require_all
+
+BUNDLED WITH
+   2.3.21
